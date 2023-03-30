@@ -1,0 +1,8 @@
+development:
+  SSO_PROVIDER_URL: 'http://localhost:3000'
+  SSO_APP_ID: '23f8507e5cdf91a85f5e859f310eb505'
+  SSO_APP_SECRET: '0e3c138e0f7b282bb30755ea5b912227'
+production:
+  SSO_PROVIDER_URL: 'http://localhost:3000'
+  SSO_APP_ID: '23f8507e5cdf91a85f5e859f310eb505'
+  SSO_APP_SECRET: '0e3c138e0f7b282bb30755ea5b912227'
